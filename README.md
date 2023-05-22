@@ -27,10 +27,13 @@ Notebooks and Documents are structured thinking about their functional scope:
     - Early Options Perspective for Available Techniques, Lazy Predict
     - XGBoost
     - Gluon
-  - B02 | Accelerated failure time (AFT) model
+  - B02 | SVM With Linear and Nonlinear Kernels
     - XGBoost
     - Gluon
-  - B03 | Evaluation of regressor: Train, Test and Bootstraping
+  - B03 | Accelerated failure time (AFT) model
+    - XGBoost
+    - Gluon
+  - B04 | Evaluation of regressor: Train, Test and Bootstraping
     - r2, Adjusted R2, RMSE and their stability of results
 - **Reports PDFs**
   - Problem Statement
@@ -77,6 +80,12 @@ I couldn't have build this project without the:
 ### __Author__
 
  **David Ochoa Corrales**
+
+### Sources and Bibliography:
+1. [Machine Learning Applications in Assessing Credit Risk - IMF Working Papers WP/19/109](https://github.com/DavidOchoa-Projects/binary_selection/blob/null_hyp/docs/WPIEA2019109.pdf)
+2. [Risk Management Examination Manual for Credit Card Activities Chapter 7 / Federal Deposit Insurance Corporation](https://github.com/DavidOchoa-Projects/binary_selection/blob/null_hyp/docs/ch7.pdf)
+3. 
+
 
 ### __License__  
 
